@@ -17,7 +17,7 @@ mongoose
  
 
 
-app.get('/', (req, res)=> res.send('Hello Anjitha'));
+app.get('/', (req, res)=> res.send( 'Anjitha Forever'));
 
 //Use Routes
 app.use('/api/users', users);
