@@ -10,7 +10,11 @@
 npm install express mongoose passport passport-jwt jsonwebtoken body-parser
 bcryptjs validator
 
-npm i -D nodemon
+npm i -D nodemon // to watch server
+
+
+npm install gravatar // A library to generate Gravatar URLs in Node.js Based on gravatar specs
+
 
 ```
 
